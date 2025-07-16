@@ -46,7 +46,7 @@ If you lose access to your secrets, **we cannot help you recover them**.
 
 ## 4. ⛓️ Testnet Use Only
 
-Tau Wallet is currently deployed **on the Pi Network Testnet**. Any Pi used within the app **has no monetary value** and is for **development and educational purposes only**.
+Tau Wallet is currently deployed **on the Pi Network Testnet**. Any Pi used within the app **has no monetary value** and is for **development and testing purposes only**.
 
 > ⚠️ Transactions on testnet do not represent real-world financial actions.
 
